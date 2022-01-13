@@ -1,0 +1,14 @@
+.cover__link {
+  color: #FFFFFF;
+  text-decoration: none;
+  display: grid;
+  justify-items: center;
+  row-gap: 32px;
+  cursor: pointer;
+}
+
+@media screen and (max-width:767px) {
+  .cover__link {
+    row-gap: 16px;
+  }
+}
