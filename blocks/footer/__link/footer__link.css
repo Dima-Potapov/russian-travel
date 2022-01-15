@@ -28,3 +28,7 @@
   transition-timing-function: linear;
   opacity: .8;
 }
+
+.footer__link:last-child {
+  margin-right: 0;
+}

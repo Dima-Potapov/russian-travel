@@ -12,8 +12,9 @@
 
 **Figma**
 
-*Ознакомится с иходным макетом возсможно ниже по ссылке
-[Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+*Ознакомится с иходным макетом возсможно ниже по
+[Ссылке на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 **Проект**
+
 https://dima-potapov.github.io/russian-travel/index.html
